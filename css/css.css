@@ -915,8 +915,8 @@ body:not(.layout-front) #cover h1 {
 }
 
 #footer>div {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
